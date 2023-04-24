@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+a{
+    color:red;
+    font-size: large;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.banner-text{
+    padding-top: 100px;
+    margin-left: 50px;
+    color: red;
+    ;
+
+}
+.banner-text h2{
+    
+    font-weight: bold;
+    font-size: 25px;
+    color: red;
+    font-style: italic;
+    margin-top: 40px;
+}
+.banner-text h1{
+    margin-left: 5px;
+    font-size: 100px;
+    
+    
+}
+.banner-text h3{
+    margin-top: 50px;
+
+}
+.footer {
+             position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color:white;
+            color: red;
+            text-align : center;
+            height: 40px;
+            
+        }
