@@ -12,3 +12,20 @@
     position: absolute;
     width: 100px;
     }
+/* profiel*/
+
+.profiel {
+    background-image: url(fotos/DPK.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color:black; 
+  
+  
+  }
+  #wadewilson{
+    position: absolute;
+  margin-left: 400px;
+  border: 10px solid white;
+    
+}
