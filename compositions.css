@@ -6,8 +6,8 @@ body{
     background-color: black;
 }
 a{
-    position: fixed;
-    background-color: whit;
+    position: absolute;
+
     color:red;
     font-size: large;
     box-sizing: border-box;
@@ -93,3 +93,78 @@ a{
                         height: 40px;
                         
                     }
+/* Deel css getuigenissen.html */
+                    .hometag {
+                        color:red;
+                        font-weight: bold;
+                        font-size: 30px;
+                        position: relative;
+                    }
+                    
+                    p{
+                        width: 500px;
+                       
+                        color:red;
+                        font-size: 18px;
+                    
+                    }
+                    
+                    
+                  
+                    
+                    
+                    
+                   .naam {
+                        color:white;
+                        margin-top: 20px;
+                        font-size: 20px;
+
+                    }
+                    h1{
+                        color:white
+                    }
+                    ul{
+                        color: red;
+                        font-size: 20px;
+                    }
+                   
+                    
+                    .pgetui{
+                        width: 300px;
+                        margin-top: 10px; ;
+                    }
+                    .footer {
+                                     position: fixed;
+                                    left: 0;
+                                    bottom: 0;
+                                    width: 100%;
+                                    background-color:white;
+                                    color: red;
+                                     text-align : center;
+                                    height: 40px;
+                                    
+                                }
+                                
+                                
+                                /* Deel css bronnen.html */
+                                body{
+                                    background-color: black;
+                            
+                                }
+                            p{
+                                color: red;
+                            }
+                                .footer {
+                                             position: fixed;
+                                            left: 0;
+                                            bottom: 0;
+                                            width: 100%;
+                                            background-color:white;
+                                            color: red;
+                                            text-align : center;
+                                            height: 40px;
+                                            
+                                        }
+                            h1{
+                                color:white;
+                            }

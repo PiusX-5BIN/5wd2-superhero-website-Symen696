@@ -29,3 +29,37 @@
   border: 10px solid white;
     
 }
+/* Deel css getuigenissen.html */
+#GT {
+  background-image: url(fotos/DPB.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+
+.imgVan{
+  position: absolute;
+margin-left: 500px;
+border: 10px solid white;
+margin-bottom: 400px;
+  
+}
+.imgWolf{
+  position: absolute;
+margin-left: 500px;
+border: 10px solid white;
+margin-bottom: 400px;
+}
+.imgAI{
+  position: absolute;
+margin-left: 500px;
+border: 10px solid white;
+margin-bottom: 400px;
+}
+.imgDOP{
+  position: absolute;
+margin-left: 500px;
+border: 10px solid white;
+margin-bottom: 450px;
+}
