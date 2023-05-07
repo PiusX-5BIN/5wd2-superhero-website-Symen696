@@ -1,28 +1,11 @@
-#superheroeBanner{
-    width: 100%;
-    height: 65vh;
-    background-image:url(fotos/dpwp.jpg);
-    background-size: cover;
-    background-position: 69%;
-    border-radius: 10px;
-    position: fixed;
-    margin-top:100px;
-}
+
 .logo {
     position: absolute;
     width: 100px;
     }
 /* profiel*/
 
-.profiel {
-    background-image: url(fotos/DPK.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color:black; 
-  
-  
-  }
+
   #wadewilson{
     position: absolute;
   margin-left: 400px;
@@ -30,13 +13,7 @@
     
 }
 /* Deel css getuigenissen.html */
-#GT {
-  background-image: url(fotos/DPB.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  
-}
+
 
 .imgVan{
   position: absolute;
@@ -62,4 +39,23 @@ margin-bottom: 400px;
 margin-left: 500px;
 border: 10px solid white;
 margin-bottom: 450px;
+}
+/* Deel css comics.html */
+#CH1{
+  position: absolute;
+  margin-left: 600px;
+  border: 10px solid black;
+  margin-bottom: 200px;
+}
+#CH2{
+  position: absolute;
+  margin-left: 800px;
+  border: 10px solid black;
+  margin-bottom: 200px;
+}
+#CH3{
+  position: absolute;
+  margin-left: 1000px;
+  border: 10px solid black;
+  margin-bottom: 200px;
 }

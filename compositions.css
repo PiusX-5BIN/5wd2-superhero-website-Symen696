@@ -1,10 +1,8 @@
-/*sidebar*/
+
 
 /* css deel index.html */
 
-body{
-    background-color: black;
-}
+
 a{
     position: absolute;
 
@@ -45,17 +43,7 @@ a{
     margin-top: 50px;
 
 }
-.footer {
-             position: fixed;
-            left: 0;
-            bottom: 0;
-            width: 100%;
-            background-color:white;
-            color: red;
-            text-align : center;
-            height: 40px;
-            
-        }
+
 
         /* Deel css profiel.html */
         
@@ -82,17 +70,7 @@ a{
             font-size: 20px;
         }
        
-        .footer {
-                         position: fixed;
-                        left: 0;
-                        bottom: 0;
-                        width: 100%;
-                        background-color:white;
-                        color: red;
-                        text-align : center;
-                        height: 40px;
-                        
-                    }
+        
 /* Deel css getuigenissen.html */
                     .hometag {
                         color:red;
@@ -120,9 +98,7 @@ a{
                         font-size: 20px;
 
                     }
-                    h1{
-                        color:white
-                    }
+                    
                     ul{
                         color: red;
                         font-size: 20px;
@@ -133,38 +109,46 @@ a{
                         width: 300px;
                         margin-top: 10px; ;
                     }
-                    .footer {
-                                     position: fixed;
-                                    left: 0;
-                                    bottom: 0;
-                                    width: 100%;
-                                    background-color:white;
-                                    color: red;
-                                     text-align : center;
-                                    height: 40px;
-                                    
-                                }
+                    
                                 
                                 
                                 /* Deel css bronnen.html */
-                                body{
-                                    background-color: black;
-                            
-                                }
+                                
                             p{
                                 color: red;
                             }
-                                .footer {
-                                             position: fixed;
-                                            left: 0;
-                                            bottom: 0;
-                                            width: 100%;
-                                            background-color:white;
-                                            color: red;
-                                            text-align : center;
-                                            height: 40px;
-                                            
-                                        }
+                            
                             h1{
                                 color:white;
                             }
+ /* Deel css comics.html */
+ #hometagC{
+    color:black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+
+
+#achtergrondC {
+  background-image: url(fotos/dpco.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+
+}
+#ulC{
+    color: black;
+    margin-left: 800px;
+    
+}
+
+
+#h1C{
+    padding: absolute;
+    margin-left: 820px;
+    
+    color: white;
+}
